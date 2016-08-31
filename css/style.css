@@ -1,0 +1,67 @@
+.side.slideLeftToRight {
+	background-color: #282828 !important;
+}
+.recent.message.active {
+	background-color: #333333 !important;
+	border-left: 5px 00AFF0 solid !important;
+}
+.recent.message:hover{
+	background-color: #333333 !important;
+}
+.recent .tileName {
+	color: #fff !important;
+}
+.swx .themeLight.chat {
+	background-color: #181818 !important;
+	color: #fff !important;
+}
+:root .swx .themeLight.chat .conversation .message.their .bubble, :root .swx .themeLight.chat .conversation .message.their .arrow:after, .conversation .message.their .bubble:after, .conversation .their.message.media .content .messageTextWrapper{
+	background-color: #282828 !important;
+}
+:root .swx .themeLight.chat .conversation .message.me .bubble, :root .swx .themeLight.chat .conversation .message.me .arrow:after,
+.conversation .message.me .bubble{
+	background-color: #333333 !important;
+}
+.timeline .recent.unread .message{
+	color: #fff !important;
+}
+.swx .chat .input.active {
+	background-color: #333333 !important;
+	color: #fff !important;
+}
+:root .swx .themeWhite.side .recent .message, :root .swx .themeWhite.side .searchItem .message, :root .swx .chat .conversation .message.showTimestamp .timestamp p{
+	color: #A0A0A0 !important;
+}
+:root .swx .chat .conversationHeader .headerMain .roster .grid .tile.conversationTopic h3 .hoverWrap>span:first-child{
+	color: #fff !important;
+}
+:root .swx .chat .input:before{
+	border-top: 1px solid #282828 !important;
+}
+:root .swx .chat .conversationHeader:after{
+	border-bottom: 1px solid #282828 !important;
+}
+:root .swx .search .splitter{
+	background: #282828 !important;
+}
+:root .swx .Avatar--whiteTheme .Avatar.Avatar--selected:after, :root .swx .Avatar--whiteTheme .Avatar:not(.Avatar--selected):after, 
+:root .swx .side .timeline .recent.unread .counter .circle:before, :root .swx .Avatar--presence:after{
+	background: rgba(0,0,0,0) !important;
+	border: 3px solid #333333 !important;
+}
+:root .swx .side .timeline .recent.unread .counter .circle:before{
+	background: rgba(0,0,0,0) !important;
+	border: none !important;
+}
+:root .swx .shellSplashScreen {
+	background-color: #282828 !important;
+}
+:root .swx .chat .input form textarea{
+	color: #fff !important;
+}
+:root .swx .themeWhite .timeline .recent:hover:not(.active) .counter .circle:before, :root .swx .themeWhite .timeline .recent:focus:not(.active) .counter .circle:before{
+	background-color: rgba(0,0,0,0) !important;
+}
+:root .swx .Avatar, :root .swx .themeWhite .timeline .recent:hover:not(.active) .counter .circle:before, :root .swx .themeWhite .timeline .recent:focus:not(.active) .counter .circle:before{
+	background-color: rgba(0,0,0,0) !important;
+}
